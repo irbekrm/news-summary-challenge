@@ -1,0 +1,26 @@
+{
+  "name": "news-summary-challenge",
+  "version": "1.0.0",
+  "description": "news summary challenge",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irbekrm/news-summary-challenge.git"
+  },
+  "keywords": [
+    "vanilla",
+    "JS"
+  ],
+  "author": "irbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irbekrm/news-summary-challenge/issues"
+  },
+  "homepage": "https://github.com/irbekrm/news-summary-challenge#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
